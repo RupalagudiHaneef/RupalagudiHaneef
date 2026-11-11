@@ -40,6 +40,14 @@ Explore my background, skills, projects, and experience.
 
 ---
 
+## Problem solving
+
+I practice data structures and algorithms and work on coding challenges to strengthen my problem-solving skills.
+
+- [View my LeetCode profile](https://leetcode.com/u/haneefrupalagudi/)
+
+---
+
 ## Tech stack
 
 **Languages:** Python, Java, SQL  
@@ -54,6 +62,7 @@ Explore my background, skills, projects, and experience.
 ## Connect with me
 
 - [LinkedIn](https://linkedin.com/in/haneef-rupalagudi-573b2b262)
+- [LeetCode](https://leetcode.com/u/haneefrupalagudi/)
 - [Portfolio](https://haneefrupalagudi.github.io/)
 - [GitHub](https://github.com/RupalagudiHaneef)
 
