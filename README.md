@@ -28,7 +28,7 @@ A Python data-analysis project exploring sleep patterns and health and lifestyle
 
 - Python, Pandas, NumPy, Matplotlib, and SQL
 
-### [Personal portfolio](https://haneefrupalagudi.github.io/)
+### [Personal portfolio](https://rupalagudihaneef.github.io/haneefrupalagudi.github.io/)
 Explore my background, skills, projects, and experience.
 
 ---
@@ -63,7 +63,7 @@ I practice data structures and algorithms and work on coding challenges to stren
 
 - [LinkedIn](https://linkedin.com/in/haneef-rupalagudi-573b2b262)
 - [LeetCode](https://leetcode.com/u/haneefrupalagudi/)
-- [Portfolio](https://haneefrupalagudi.github.io/)
+- [Portfolio](https://rupalagudihaneef.github.io/haneefrupalagudi.github.io/)
 - [GitHub](https://github.com/RupalagudiHaneef)
 
 I'm interested in fresher opportunities in **Python development, software engineering, AI/ML, and data-related roles**.
