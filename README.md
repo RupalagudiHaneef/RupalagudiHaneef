@@ -61,7 +61,9 @@ I practice data structures and algorithms and work on coding challenges to stren
 
 ## Connect with me
 
-- [LinkedIn](https://linkedin.com/in/haneef-rupalagudi-573b2b262)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haneef-rupalagudi-573b2b262)
+
+- [LinkedIn profile](https://www.linkedin.com/in/haneef-rupalagudi-573b2b262/)
 - [LeetCode](https://leetcode.com/u/haneefrupalagudi/)
 - [Portfolio](https://rupalagudihaneef.github.io/haneefrupalagudi.github.io/)
 - [GitHub](https://github.com/RupalagudiHaneef)
